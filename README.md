@@ -31,3 +31,4 @@
 代码位于 [tool](./src/tool)，使用 GitHub Actions 发布于 [GitHub Release](https://github.com/EhTagTranslation/Editor/releases)。
 
 使用说明可通过 `node tool --help` 命令获取。
+
